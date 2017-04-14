@@ -1,0 +1,6 @@
+framework module Pods_WhereIsMyTrain {
+  umbrella header "Pods-WhereIsMyTrain-umbrella.h"
+
+  export *
+  module * { export * }
+}
