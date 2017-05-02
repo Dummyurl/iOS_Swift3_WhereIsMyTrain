@@ -1,6 +1,5 @@
 //
 //  Utilities.swift
-//  MyVelib
 //
 //  Created by etudiant-06 on 27/03/2017.
 //  Copyright © 2017 Mehdi Chennoufi. All rights reserved.
